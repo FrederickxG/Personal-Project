@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 114074205289281664}
   - component: {fileID: 114236293670677556}
   m_Layer: 0
-  m_Name: Target
+  m_Name: Target 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -92,8 +92,8 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 0.6406482
+  m_Center: {x: 0.010822594, y: 0, z: -0.014524341}
 --- !u!54 &6196021452235918747
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -122,9 +122,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1cb57fc495094b3cb35d3d96a8e7610, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  leftLimit: -30
+  leftLimit: -55
   bottomLimit: -2
-  rightLimit: -15
+  rightLimit: -55
 --- !u!114 &114236293670677556
 MonoBehaviour:
   m_ObjectHideFlags: 0

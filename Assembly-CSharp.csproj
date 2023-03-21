@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\MoveForward.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\SpawnManager.cs" />
+     <Compile Include="Assets\SpawnManager2.cs" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>/Users/game3-11/Desktop/Create with Code/Personal Project/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
